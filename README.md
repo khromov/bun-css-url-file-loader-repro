@@ -8,6 +8,8 @@
 bun repro.ts
 ```
 
+Reproduces on stable **1.3.14** and canary **1.4.0** (identical output).
+
 ## Output (Bun 1.3.14)
 
 ```
