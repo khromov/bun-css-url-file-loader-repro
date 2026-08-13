@@ -1,0 +1,8 @@
+{
+  "name": "bun-css-url-file-loader-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "bun repro.ts"
+  }
+}
